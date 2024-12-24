@@ -4,3 +4,4 @@ pycryptodome
 pywin32
 pynput
 shutil
+browser-history
