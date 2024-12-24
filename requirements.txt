@@ -1,0 +1,6 @@
+discord.py
+pyautogui
+pycryptodome
+pywin32
+pynput
+shutil
