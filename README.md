@@ -1,5 +1,7 @@
 # MOZAN RAT (Remote Access Trojan) using Python and Discord Bots
 
+<img src="https://github.com/user-attachments/assets/17ee8079-338c-4138-860d-940e6dea848a" alt="Description" width="800" height="400">
+
 ## Overview
 
 This project is an educational Remote Access Trojan (RAT) written in Python. The RAT uses Discord bots to facilitate communication between the attacker and the victim. Commands that do not start with a `/` are treated as PowerShell commands. Commands starting with a `/` are interpreted as specific functionalities, such as file transfer, screenshots, logging, and more.
