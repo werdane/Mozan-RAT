@@ -28,3 +28,5 @@ This project is an educational Remote Access Trojan (RAT) written in Python. The
 - **Persistence:** Runs in the background and automatically starts on system startup.
 
 DISCLAIMER: I CLAIM NO RESPONSIBILITY OVER HOW OTHERS USE THIS TOOL!
+
+Pardon my poorly written code
